@@ -117,7 +117,7 @@ function App() {
                 </Popup>
               </Marker>
             </MapContainer>
-            <footer className='position-absolute w-100 bottom-0 d-block z-1 text-center text-white py-1'>Developed by <a href="https://www.linkedin.com/in/piyaremen/" target='_blank' rel='noopener noreferrer'>Piyar Emen</a></footer>
+            <footer className='position-fixed w-100 bottom-0 z-1 text-center text-white py-1'>Developed by <a href="https://www.linkedin.com/in/piyaremen/" target='_blank' rel='noopener noreferrer'>Piyar Emen</a></footer>
           </div>
       }
 
