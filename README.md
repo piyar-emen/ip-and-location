@@ -1,6 +1,8 @@
 # With this web app you can see your IP address and location
 
 # Frontend technologies used in this project:
+- HTML
+- CSS
 - JavaScript https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - TypeScript https://www.typescriptlang.org/
 - React.js https://react.dev/
