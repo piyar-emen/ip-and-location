@@ -1,5 +1,5 @@
 {
-  "name": "find-my-ip",
+  "name": "ip-and-location",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,8 +10,13 @@
     "@types/node": "^16.18.50",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "leaflet": "^1.9.4",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
     "react-dom": "^18.2.0",
+    "react-leaflet": "https://github.com/mistenkt/react-leaflet/archive/refs/tags/react-leaflet-v4.2.1-gitpkg.tar.gz",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
@@ -39,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.4"
   }
 }
